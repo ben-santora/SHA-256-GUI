@@ -29,7 +29,7 @@ cargo run
 4. The result and verification status will be displayed.
 
 ## License
-MIT License
+GPLv3
 
-##Author
-- Ben Santora
+## Author
+Ben Santora
