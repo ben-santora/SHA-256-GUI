@@ -1,1 +1,3 @@
-* linguist-detectable=false *.rs linguist-detectable=true
+* linguist-detectable=false 
+*.rs linguist-detectable=true
+*.slint linguist-language=Rust
